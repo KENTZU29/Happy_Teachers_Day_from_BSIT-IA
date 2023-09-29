@@ -4,9 +4,10 @@
   box-sizing: border-box;
   font-family: "Roboto Condensed", sans-serif;
 }
-
 .wrapper {
-  background: url("../images/bg.jpg") center/cover;
+/*  background: url("../images/bg.jpg") center/cover;
+*/
+    background-color: #69AAF9;
   width: 100%;
   min-height: 100vh;
   position: relative;
@@ -30,7 +31,7 @@
 }
 .card img {
   width: 100%;
-  height: 200px;
+  height: 260px;
   object-fit: cover;
 }
 
@@ -59,13 +60,23 @@
 
 .read-more a {
   padding: 8px 20px;
-  background: #fff;
+  border-top: 1px solid #484848;
+  background: #7FB9FF;
   color: #000;
   border-radius: 20px;
   text-decoration: none;
   display: inline-block;
 }
-
+footer a {
+    border-top: 1px solid #95C5FF;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 2px;
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+}
 @keyframes card {
   from {
     transform: translateY(100%);
