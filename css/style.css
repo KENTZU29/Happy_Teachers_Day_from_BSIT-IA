@@ -61,23 +61,13 @@
 
 .read-more a {
   padding: 8px 20px;
-  border-top: 1px solid #484848;
+  border: 1px solid #484848;
   background: #7FB9FF;
   color: #000;
   border-radius: 20px;
   text-decoration: none;
   display: inline-block;
 }
-/*footer a {
-    border-top: 1px solid #95C5FF;
-    text-decoration: none;
-    color: white;
-    text-align: center;
-    padding: 2px;
-    position: absolute;
-    width: 100%;
-    bottom: 0;
-}*/
 @keyframes card {
   from {
     transform: translateY(100%);
