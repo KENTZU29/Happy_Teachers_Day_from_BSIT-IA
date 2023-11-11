@@ -1,2 +1,2 @@
-## [View The website](https://r-uru.github.io/Happy_Teachers_Day_from_BSIT-IA/)
+## [View The website](https://r-uru.github.io/kent_message/)
 ### Use this to open
